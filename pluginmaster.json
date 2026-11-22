@@ -1,0 +1,33 @@
+[
+    {
+        "Author":  "TellTunes",
+        "Name":  "TellTunes",
+        "InternalName":  "TellTunes",
+        "AssemblyVersion":  "1.1.0.0",
+        "Description":  "When someone sends you a tell with \"!q \u003clink\u003e\", TellTunes queues the song automatically. Works with YouTube videos and playlists, and Spotify tracks, playlists and albums (matched to YouTube). Optional: share songs with nearby Lightless Sync pairs through SoundyQ and the Mega Music Mod, announce songs in chat, and tell requesters their place in the queue. Downloads use yt-dlp, which TellTunes fetches on first use.",
+        "Punchline":  "Play songs people send you by /tell: YouTube, Spotify and playlists.",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/Clair-songs/TellTunes-plugins",
+        "Tags":  [
+                     "music",
+                     "youtube",
+                     "spotify",
+                     "tell",
+                     "audio",
+                     "playlist"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "LoadPriority":  0,
+        "CanUnloadAsync":  false,
+        "AcceptsFeedback":  false,
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadCount":  0,
+        "LastUpdate":  1795317434,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/Clair-songs/TellTunes-plugins/main/plugins/TellTunes/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Clair-songs/TellTunes-plugins/main/plugins/TellTunes/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/Clair-songs/TellTunes-plugins/main/plugins/TellTunes/latest.zip"
+    }
+]
